@@ -22,7 +22,11 @@ Into your API keys, if you don't have API keys you can create an App to generate
 
 ## Usage
 
-[VIDEO HERE SOON]
+
+
+https://github.com/RexurectionV3rm/StormBot/assets/70076686/aa237ae3-a9b9-4d27-9518-11e91ed3a2ef
+
+
 
 ## Contributing
 
